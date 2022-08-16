@@ -1,0 +1,20 @@
+.top-banner{
+    display: flex;
+}
+.first-header{
+    width: 50%;
+    margin: 0px 20px;
+    padding: 0px 20px;
+}
+.first-header h1{
+    font-size: 60px;
+}
+.first-header span{
+    color: orange;
+}
+.second-header{
+    width: 50%;
+}
+.second-header img{
+    width: 95%;
+}
