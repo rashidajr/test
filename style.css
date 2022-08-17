@@ -1,20 +1,43 @@
-.top-banner{
+.top-banner {
     display: flex;
 }
-.first-header{
+
+.first-header {
     width: 50%;
     margin: 0px 20px;
     padding: 0px 20px;
 }
-.first-header h1{
+
+.first-header h1 {
     font-size: 60px;
 }
-.first-header span{
+
+.first-header span {
     color: orange;
 }
-.second-header{
+
+.second-header {
     width: 50%;
 }
-.second-header img{
+
+.second-header img {
     width: 95%;
+}
+.banner{
+    display: flex;
+}
+.third-header{
+    width: 50%;
+    margin: 0px 20px;
+    padding: 0px 20px;
+
+}
+.third-header img{
+width: 70%;
+}
+.forth-header h1 {
+font-size: 60px;
+}
+.banner span{
+color: blue;
 }
